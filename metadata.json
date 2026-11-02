@@ -1,0 +1,6 @@
+{
+  "name": "University of Sindh LMS",
+  "description": "Redesigned official student Learning Management System (LMS) and ePortal for University of Sindh, Jamshoro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
